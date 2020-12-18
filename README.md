@@ -50,4 +50,4 @@ Tabele wrzucamy:
 \end{table}
 ```
 
-Przypis harwardzi tworzy się poprzez użycie \cite{example}, gdzie example odnosi się do bibitem w bibliografia.tex
+Przypis harwardzki tworzy się poprzez użycie \cite{example}, gdzie example odnosi się do bibitem w bibliografia.tex
